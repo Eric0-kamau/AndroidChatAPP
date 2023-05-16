@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.myapp-merged_res-33:/menu_menu.xml.flat",
+        "source": "com.example.myapp-main-35:/menu/menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_sent.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_receive.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_user_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable_chatting.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\drawable\\chatting.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable_messagebox_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\drawable\\messagebox_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable_send.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\drawable\\send.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-29:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\drawable_edt_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\drawable\\edt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.myapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]
